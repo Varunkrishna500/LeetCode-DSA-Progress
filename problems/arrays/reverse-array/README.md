@@ -10,6 +10,6 @@ Given an array of integers, reverse the array in-place. You need to reverse the 
 * Output: [5, 4, 3, 2, 1]
 
 ## Complexity Analysis
-*Time Complexity: O(n) - Single pass through half the array
+**Time Complexity: O(n) - Single pass through half the array
 
-*Space Complexity: O(1) - Only constant extra space for swapping
+**Space Complexity: O(1) - Only constant extra space for swapping
